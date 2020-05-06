@@ -14,5 +14,6 @@ install.packages("ggplot2")
 install.packages("purrr")
 install.packages("stringr")
 install.packages("forcats")
+install.packages("triangle")
 
 devtools::install_github("nteract/papermillr")
